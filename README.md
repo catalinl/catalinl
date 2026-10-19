@@ -1,4 +1,4 @@
-# Hi, I'm Cătălin 👋
+# Hi, I'm Catalin 👋
 
 I'm a **Front-End Developer** focused on building meaningful, high-performing user experiences rather than just interfaces.
 
